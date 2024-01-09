@@ -1,7 +1,7 @@
-export default function Compose() {
+export default function Home() {
   return (
-    <main >
-      Compose
+    <main>
+      게시글
     </main>
   )
 }

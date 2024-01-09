@@ -1,7 +1,7 @@
-export default function Status() {
+export default function Page() {
   return (
     <main>
-      Status
+      게시글 상세
     </main>
   )
 }

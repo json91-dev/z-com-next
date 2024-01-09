@@ -1,7 +1,8 @@
-export default function Search() {
+
+export default function Home() {
   return (
-    <main >
-      검색 페이지
+    <main>
+      검색페이지
     </main>
   )
 }

@@ -1,7 +1,8 @@
-export default function Username() {
+
+export default function Profile() {
   return (
     <main>
-      Username
+      프로필페이지
     </main>
   )
 }

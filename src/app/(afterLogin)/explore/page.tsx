@@ -1,7 +1,8 @@
-export default function Explore() {
+
+export default function Home() {
   return (
-    <main >
-      Expolore
+    <main>
+      검색페이지
     </main>
   )
 }
